@@ -1,0 +1,16 @@
+$primary-color: rgb(248,249,250);
+$secondary-color: #272727;
+$text-color: $primary-color;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: $primary-color;
+}
+
+p {
+    color: $secondary-color;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}  
+
